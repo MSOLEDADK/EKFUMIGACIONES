@@ -1,6 +1,6 @@
-/* Style the video: 100% width and height to cover the entire window */
+
 * {
-  max-width: 100%;
+  max-width: 10%;
   justify-items: center;
   align-content: space-around;
   box-sizing: border-box;
